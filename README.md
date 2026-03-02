@@ -23,9 +23,9 @@ This lab highlights:
 ---
 
 ## ⚙️ Files
-- **`game.py`** → Drone physics engine (`DroneEngine`).  
-- **`env.py`** → Custom Gymnasium environment (`DroneLandingEnv`).  
-- **`exercise.ipynb`** → PPO training and simulation loop.  
+- **`drone_engine.py`** → Drone physics engine (`DroneEngine`).  
+- **`drone_env.py`** → Custom Gymnasium environment (`DroneLandingEnv`).  
+- **`reinforcement_learning_drone.ipynb`** → PPO training and simulation loop.  
 
 ---
 
