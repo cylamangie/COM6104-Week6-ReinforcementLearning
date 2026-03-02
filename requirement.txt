@@ -1,0 +1,5 @@
+```txt
+gymnasium
+stable-baselines3
+numpy
+opencv-python
